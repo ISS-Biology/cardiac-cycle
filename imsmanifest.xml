@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">The cardiac cycle2</langstring>
+          <langstring xml:lang="x-none">The Cardiac Cycle</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="The_cardiac_cycle2_ORG">
-    <organization identifier="The_cardiac_cycle2_ORG">
-      <title>The cardiac cycle2</title>
+  <organizations default="The_Cardiac_Cycle_ORG">
+    <organization identifier="The_Cardiac_Cycle_ORG">
+      <title>The Cardiac Cycle</title>
       <item identifier="Cardiac_cycle_SCO" isvisible="true" identifierref="__66yJK4z9shQ_course_id_RES">
-        <title>The cardiac cycle2</title>
+        <title>The Cardiac Cycle</title>
         <adlcp:masteryscore>70</adlcp:masteryscore>
       </item>
     </organization>
@@ -64,8 +64,8 @@
       <file href="story_content/thumbnail.jpg" />
       <file href="story_content/5zAMBpc6DFE_80_DX544_DY544.jpg" />
       <file href="mobile/5zAMBpc6DFE_80_DX544_DY544_CX272_CY255.jpg" />
-      <file href="story_content/5pEWlW6tbHV_80_DX296_DY296.jpg" />
-      <file href="mobile/5pEWlW6tbHV_80_DX296_DY296_CX222_CY222.jpg" />
+      <file href="story_content/5brdghCjlDq_80_DX128_DY128.swf" />
+      <file href="mobile/5brdghCjlDq_80_DX128_DY128_CX96_CY48.png" />
       <file href="story_content/Slide5ciZwYXgkuR.swf" />
       <file href="story_content/5qaa4t4Ugla_80_P_0_0_3152_4604_DX1084_DY1084.swf" />
       <file href="mobile/5qaa4t4Ugla_80_P_0_0_3152_4604_DX1084_DY1084_CX556_CY812.png" />
